@@ -6,22 +6,14 @@ f=Bitstream Charter
 f=Bitstream Charter
 [CharterBT-Roman]
 f=Bitstream Charter
-[Courier]
-f=Courier
-[Courier-Bold]
-f=Courier
-[Courier-BoldItalic]
-f=Courier
-[Courier-Italic]
-f=Courier
 [Courier10PitchBT-Roman]
-f=Bitstream Courier
+f=Courier
 [Courier10PitchBT-Bold]
-f=Bitstream Courier
+f=Courier
 [Courier10PitchBT-BoldItalic]
-f=Bitstream Courier
+f=Courier
 [Courier10PitchBT-Italic]
-f=Bitstream Courier
+f=Courier
 [Utopia-Regular]
 f=Adobe Utopia
 [Utopia-Italic]
@@ -31,50 +23,72 @@ f=Adobe Utopia
 [Utopia-Bold]
 f=Adobe Utopia
 [CenturySchL-Roma]
-f=schoolbook
+f=Century Schoolbook L
 [CenturySchL-Bold]
-f=schoolbook
+f=Century Schoolbook L
 [CenturySchL-BoldItal]
-f=schoolbook
+f=Century Schoolbook L
 [CenturySchL-Ital]
-f=schoolbook
-[URWGothicL-Book]
-f=gothic
-[URWGothicL-Demi]
-f=gothic
+f=Century Schoolbook L
 [CenturySchL-Roma]
-f=schoolbook
+f=Century Schoolbook L
 [CenturySchL-Bold]
-f=schoolbook
+f=Century Schoolbook L
+[URWGothicL-Book]
+f=URW Gothic L
+[URWGothicL-Demi]
+f=URW Gothic L
+[URWGothicL-BookObli]
+f=URW Gothic L
+[URWGothicL-DemiObli]
+f=URW Gothic L
 [URWBookmanL-Ligh]
-f=bookman
+f=URW Bookman L
 [URWBookmanL-DemiBold]
-f=bookman
+f=URW Bookman L
+[URWBookmanL-Ital]
+f=URW Bookman L
+[URWBookmanL-DemiBoldItal]
+f=URW Bookman L
 [NimbusSanL-Regu]
-f=nimbus sans
+f=Nimbus Sans L
 [NimbusSanL-Bold]
-f=nimbus sans
+f=Nimbus Sans L
 [NimbusSanL-BoldItal]
-f=nimbus sans
+f=Nimbus Sans L
 [NimbusSanL-ReguItal]
-f=nimbus sans
+f=Nimbus Sans L
 [NimbusSanL-ReguCond]
-f=nimbus sans condensed
+f=Nimbus Sans L Condensed
 [NimbusSanL-BoldCond]
-f=nimbus sans condensed
+f=Nimbus Sans L Condensed
+[NimbusSanL-ReguCondItal]
+f=Nimbus Sans L Condensed
+[NimbusSanL-BoldCondItal]
+f=Nimbus Sans L Condensed
 [NimbusRomNo9L-Regu]
-f=nimbus roman no9
+f=Nimbus Roman No9 L
+[NimbusRomNo9L-Medi]
+f=Nimbus Roman No9 L
+[NimbusRomNo9L-ReguItal]
+f=Nimbus Roman No9 L
+[NimbusRomNo9L-MediItal]
+f=Nimbus Roman No9 L
 [NimbusMonL-Regu]
-f=nimbus mono l
+f=Nimbus Mono L
 [NimbusMonL-Bold]
-f=nimbus mono l
+f=Nimbus Mono L
 [NimbusMonL-BoldObli]
-f=nimbus mono l
+f=Nimbus Mono L
 [NimbusMonL-ReguObli]
-f=nimbus mono l
+f=Nimbus Mono L
 [URWPalladioL-Roma]
-f=palladio
+f=URW Palladio L
 [URWPalladioL-Bold]
-f=palladio
+f=URW Palladio L
+[URWPalladioL-Ital]
+f=URW Palladio L
+[URWPalladioL-BoldItal]
+f=URW Palladio L
 [URWChanceryL-MediItal]
-f=chancery
+f=URW Chancery L
